@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Robot4Learning/Robot4Learning.github.io.git
+	branch = main
