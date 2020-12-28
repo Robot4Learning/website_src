@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Interactions with a Robot Teacher in an Elementary Science Class"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Igor Verner
+- Alex Polishuk
+- Niv Krayner
+date: "2016-08-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,26 +20,17 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper considers a science lesson given through mediation of the humanoid RoboThespian to groups of school students (grades 5-7) at the science museum MadaTech. The lesson included theoretical explanations, hands-on experiments, and a knowledge quiz, all instructed and managed by means of the robot-teacher through programmed behaviors and remote teleoperation. We report the lesson design, implementation, and students' outcomes in two different classroom settings. The connection among the student-robot interaction, the learning outcomes, and the class characteristics is discussed. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- RoMan2016
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'publication/R4L_Ro-Man_2016_paper_1/R4L_Ro-Man_2016_paper_1.pdf' 
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
