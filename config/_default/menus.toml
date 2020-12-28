@@ -32,3 +32,4 @@
   name = "Contact"
   url = "contact"
   weight = 60
+  hidden = true
