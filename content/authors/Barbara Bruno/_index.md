@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: Barbara Bruno
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Barbara Bruno
 
 # Is this the primary user of the site?
 superuser: false
@@ -67,9 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Barbara is a post-doc researcher in the CHILI lab and BIOROB/MOBOTS group, actively interested in Social Robotics and Human–Robot Interaction and Cooperation. She received her Ph.D. in Robotics from the University of Genoa, Italy in 2015 and is currently involved in the EU ITN ANIMATAS, aiming at advancing intuitive human-machine interaction with human-like social capabilities for education in schools.
