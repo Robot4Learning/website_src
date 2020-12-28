@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Organisers
 ---
 
 Barbara is a post-doc researcher in the CHILI lab and BIOROB/MOBOTS group, actively interested in Social Robotics and Human–Robot Interaction and Cooperation. She received her Ph.D. in Robotics from the University of Genoa, Italy in 2015 and is currently involved in the EU ITN ANIMATAS, aiming at advancing intuitive human-machine interaction with human-like social capabilities for education in schools.

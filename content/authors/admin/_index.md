@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Organisers
 ---
 
 Assistant Professor in the Faculty of Engineering at UNSW Sydney, Wafa obtained her PhD from the University of Grenoble (France) focusing on bodily signals in child-robot interaction and affective reasoning for social agents. Her research aims at creating acceptable and useful assistive robot interactions using social signal sensing, affective and cognitive reasoning and natural expressivity.
