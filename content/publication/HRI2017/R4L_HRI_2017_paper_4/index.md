@@ -1,10 +1,12 @@
 ---
-title: "Spatial Learning of Novice Engineering Students through Practice of Interaction with Robot-Manipulators"
+title: "Teaching Assistant Robot Development by PRINTEPS"
 authors:
-- Igor Verner
-- Sergei	Gamer
+- Chihiro	Nishimoto	
+- Shunsuke	Akashiba				
+- Takeshi	Morita	
+- Takahira	Yamaguch
 
-date: "2016-08-07T00:00:00Z"
+date: "2017-03-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,16 +22,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper presents a study in which learning interactions of novice engineering students with robot manipulators focus on training spatial skills. To support the interactions, we customized the robots' workspaces, designed virtual robotic cells, and developed robot manipulation tasks with oriented blocks. 20 high school (HS) students majoring in mechanics and 248 Technion first-year students majoring in industrial engineering and management (IEM) participated. The study indicated that following the training, the HS students improved their performance of spatial tests, and the IEM students gained awareness of spatial skills required to handle industrial robot systems.
-
+abstract: PRINTEPS (Practical INTEligent aPplicationS) is a total intelligent application development platform that integrates 5 types of sub systems (knowledge-based reasoning, speech dialog, image sensing, manipulation and machine learning). This paper shows us howPRINTEPS has been applied to Teaching Assistant Robot where multiple people and robots cooperate.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- RoMan2016
+- HRI2017
 featured: false
 
-url_pdf: 'publication/R4L_Ro-Man_2016_paper_2/R4L_Ro-Man_2016_paper_2.pdf' 
+url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_4/R4L_HRI_2017_paper_4.pdf' 
 
 
 # Featured image
@@ -45,7 +46,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- HRI2017
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

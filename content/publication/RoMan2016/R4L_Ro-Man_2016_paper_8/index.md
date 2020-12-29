@@ -1,9 +1,11 @@
 ---
-title: "Interactions with a Robot Teacher in an Elementary Science Class"
+title: "The Effect of Repeating Tasks on Performance Levels in Mediated Child-Robot Interactions"
 authors:
-- Igor Verner
-- Alex Polishuk
-- Niv Krayner
+- Paul	Baxter
+- James	Kennedy
+- Emily	Ashurst
+- Tony	Belpaeme
+
 date: "2016-08-07T00:00:00Z"
 doi: ""
 
@@ -20,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper considers a science lesson given through mediation of the humanoid RoboThespian to groups of school students (grades 5-7) at the science museum MadaTech. The lesson included theoretical explanations, hands-on experiments, and a knowledge quiz, all instructed and managed by means of the robot-teacher through programmed behaviors and remote teleoperation. We report the lesson design, implementation, and students' outcomes in two different classroom settings. The connection among the student-robot interaction, the learning outcomes, and the class characteristics is discussed. 
+abstract: That “practice makes perfect” is a powerful heuristic for improving performance through repetition. This is widely used in educational context, and as such provides a potentially useful feature for application to child-robot interactions in educational contexts. While this effect may intuitively appear to be present, we here describe data to provide evidence in support of this supposition. Conducting a descriptive analysis of data from a wider study, we specifically examine the effect on child performance of repeating a previously performed collaborative task with a robot if initial performance is low. The results generally indicate a positive effect on performance through repetition, and a number of other correlation effects that highlight the role of individual differences. This outcome provides evidence for the variable utility of repetition between individuals, but also highlights that this is driven by the individual, and can nevertheless result in performance improvements even in the context of peer-peer interactions (i.e. no expert guiding agent present) with sparse feedback.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +31,7 @@ tags:
 - RoMan2016
 featured: false
 
-url_pdf: 'publication/R4L_Ro-Man_2016_paper_1/R4L_Ro-Man_2016_paper_1.pdf' 
+url_pdf: 'publication/RoMan2016/R4L_Ro-Man_2016_paper_2/R4L_Ro-Man_2016_paper_2.pdf' 
 
 
 # Featured image
@@ -45,7 +47,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- RoMan2016
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

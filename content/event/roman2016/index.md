@@ -4,9 +4,10 @@ summary: Building Interactions for Classroom Robots
 
 tags:
 - r4l
-- roman2016
+- RoMan2016
 - roman
 date: "2016-10-14T00:00:00Z"
+
 
 
 image:
@@ -69,16 +70,16 @@ With this workshop, we aim at discussing recent advances in empirical and theore
 - Privacy and ethical issues in robot tutoring applications
 
 # Program 
-9:00-9:05            Introduction
-9:05-9:40            Keynote Tony Belpaeme (30 min +5)
-9:40-10:30          Presentations (2 papers, 20 min +5 each)
-10:30-11:00        Coffee break
-11:00-11:50        Presentations (2 papers, 20 min +5 each)
-11:50-12:50        Semi-structured group discussions
-12:50-13:00        Conclusion & Wrap up
+| | |
+|----- |--------|
+|9:00-9:05|            Introduction|
+|9:05-9:40 |           Keynote Tony Belpaeme (30 min +5)|
+|9:40-10:30 |         Presentations (2 papers, 20 min +5 each)|
+|10:30-11:00 |       Coffee break|
+|11:00-11:50  |      Presentations (2 papers, 20 min +5 each)|
+|11:50-12:50   |     Semi-structured group discussions|
+|12:50-13:00    |    Conclusion & Wrap up|
 
 # Selected Papers
+{{< cite page="/publication/#RoMan2016/" view="4" >}}
 
-1.      Children’s anthropomorphism of second language robot tutors (Mirjam de Haas, Rianne van den Berghe, Paul Leseman, Emiel Krahmer, Josje Verhagen, Paul Vogt, Bram Willemsen and Jan de Wit)
-2.      Storytelling with a social robot (Nicole Goossens, Rian Aarts and Paul Vogt) 
-3.      Effective robot-human skill transfer via mutual reinforcement learning (Sayanti Roy, Emily Kieson, Charles Abramson and Christopher Crick)
