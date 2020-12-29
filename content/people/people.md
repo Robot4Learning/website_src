@@ -23,7 +23,12 @@ content:
   - Visitors
   - Alumni
 design:
+  columns: '2'
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
+  show_organizations: true
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["0px", "0", "0px", "0"]
 ---
