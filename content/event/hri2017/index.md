@@ -93,22 +93,4 @@ The aim of this workshop is to engage scholars who aim to gain expertise in educ
 
 
 # Selected Papers
-Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School. Bertrand Tondu
-
-Towards Designing a Socially Assistive Robot for Adaptive and Personalized Cognitive Training. Konstantinos Tsiakas, Cheryl Abellanoza, Maher Abujelala, Michalis Papakostas, Tasnim Makada and Fillia Makedon
-
-Robot-Based Learning Design for Young Children. Yanghee Kim and Diantha Smith
-
-Teaching Assistant Robot Development by PRINTEPS. Chihiro Nishimoto, Shunsuke Akashiba, Takeshi Morita and Takahira Yamaguchi
-
-A Humanoid Robot as a Language Tutor. Johanna Hemminki and Anne Erkinheimo-Kyllönen
-
-A Persuasive Storyteller Robot: Pilot Study. Raul Paradeda, Maria José Ferreira, Carlos Martinho, João Dias and Ana Paiva
-
-Comparing L2 Word Learning through a Tablet or Real Objects: What Benefits Learning Most?. Rianne Vlaar, Josje Verhagen, Ora Oudgenoeg-Paz and Paul Leseman
-
-Exploring the Effect of Gestures and Adaptive Tutoring on Children’s Comprehension of L2 Vocabularies. Jan de Wit, Thorsten Schodde, Bram Willemsen, Kirsten Bergmann, Mirjam de Haas, Stefan Kopp, Emiel Krahmer and Paul Vogt
-
-ProCRob Architecture for Personalized Social Robotics. Pouyan Ziafati, Francisco J Rodríguez Lera, Andreia Pinto Costa, Aida Nazarikhorram and Leon Van Der Torre Has
-
-# Acknowledgements
+{{% staticref "tag/hri2017/" "newtab" %}}HRI2017{{% /staticref %}}.
