@@ -1,7 +1,11 @@
 ---
-title: "Has Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School"
+title: "A Persuasive Storyteller Robot: Pilot Study"
 authors:
-- Bertrand Tondu
+- Raul	Paradeda	
+- Maria José	
+- Carlos	Martinho		
+- João	Dias	j
+- Ana	Paiva	
 
 date: "2017-03-07T00:00:00Z"
 doi: ""
@@ -19,7 +23,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In order to test the eventual impact of uncanny feeling, as theorized by the Mori’s concept of uncanny valley, on learning, we proposed to a class of 26 pupils of mean age 8 years 5 months to visualize The Polar Express and Dark Crystal movies and to test three months after their ability to remember movie’s hero, story and end. The high degree of uncanny feeling initially produced by The Polar Express was verified by means of a questionnaire and discussion in the class performed just after the first scene of the movie was stopped. When some weeks after the entire movies was shown to the pupils, this uncanny feeling appears to be weaker and when finally pupils were tested on their memories concerning both movies, answers got in The Polar Express case did not appear to be less relevant than those got for Dark Crystal. The reported experiment suggests that highly human-like faces do not prevent to transmit information to be learned by pupils, which tends to indicate that faces of future teaching robots could take human form.
+abstract: Scientific research has proven that Storytelling scenarios are a powerful form of learning, knowledge sharing and persuasion. The Storytelling technique is widely applied because stories have a great power to influence the person in an emotional way and can inspire people to change their behaviour in the desired direction. Nowadays, the social robotics area, specifically assistive robotics, has been presenting research that uses storytelling to try to persuade the participant to perform a specific task or follow instructions. In the case of social robotics applied to education, it is important to guide the student through paths that allow improving the learning rate. In this sense, the persuasion made by this kind of non-live agent should be subtle and preferably without noticing (the person does not perceive that she/he is being persuaded). Based on this, we describe a pilot study that presents a research in development that has a social robot as the storyteller in an interactive storytelling trying to persuade the listener to take decisions in a subtle and unnoticed.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -27,7 +31,7 @@ tags:
 - HRI2017
 featured: false
 
-url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_1/R4L_HRI_2017_paper_1.pdf' 
+url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_6/R4L_HRI_2017_paper_6.pdf' 
 
 
 # Featured image

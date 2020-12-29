@@ -1,7 +1,8 @@
 ---
-title: "Has Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School"
+title: "A Humanoid Robot as a Language Tutor"
 authors:
-- Bertrand Tondu
+- Johanna	Hemminki
+- Anne	Erkinheimo-Kyllönen
 
 date: "2017-03-07T00:00:00Z"
 doi: ""
@@ -19,7 +20,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In order to test the eventual impact of uncanny feeling, as theorized by the Mori’s concept of uncanny valley, on learning, we proposed to a class of 26 pupils of mean age 8 years 5 months to visualize The Polar Express and Dark Crystal movies and to test three months after their ability to remember movie’s hero, story and end. The high degree of uncanny feeling initially produced by The Polar Express was verified by means of a questionnaire and discussion in the class performed just after the first scene of the movie was stopped. When some weeks after the entire movies was shown to the pupils, this uncanny feeling appears to be weaker and when finally pupils were tested on their memories concerning both movies, answers got in The Polar Express case did not appear to be less relevant than those got for Dark Crystal. The reported experiment suggests that highly human-like faces do not prevent to transmit information to be learned by pupils, which tends to indicate that faces of future teaching robots could take human form.
+abstract: "We are looking for a way to make use of Nao robot in learning Finnish as a L2. The pedagogical background of our experiment is based on Curran's Community Language Learning method and its Finnish application called ‘Toisto’ (‘Repeat’). We approach the topic with the means of Conversation Analysis (CA). The target group are adult students studying at the Helsinki Skill Center aiming to work at the area of health care.
+
+Our questions are:
+
+1) Can a humanoid robot reduce a fear of making mistakes and that way promote speaking? Is it easier to ask help from a robot?
+2) Can robots support self-paced and self-guided learning?
+3) How robots can deal with students’ feelings and what kind of affective qualities does robot-assisted teaching have?
+
+According to our material in human-tutored session students didn’t take independent contact, but the teacher made the decision to ask help for the students. In robot-tutored session the students touched the hand of a robot independently. However, it is too early to draw general conclusions about if a robot is more approachable than a human. There was more laughter in the robot-assisted learning situations. The robot may have brought more joy and easiness to the learning situation and that way promote learning. Working with a robot in the teaching situation the studied language material was more limited and the robot repeated the words more than those with the human language tutor."
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -27,7 +36,7 @@ tags:
 - HRI2017
 featured: false
 
-url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_1/R4L_HRI_2017_paper_1.pdf' 
+url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_5/R4L_HRI_2017_paper_5.pdf' 
 
 
 # Featured image

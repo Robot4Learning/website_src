@@ -1,7 +1,10 @@
 ---
-title: "Has Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School"
+title: "Comparing L2 Word Learning through a Tablet or Real Objects: What Benefits Learning Most?"
 authors:
-- Bertrand Tondu
+- Rianne	Vlaar	
+- Josje	Verhagen
+- Ora	Oudgenoeg-Paz				
+- Paul	Leseman
 
 date: "2017-03-07T00:00:00Z"
 doi: ""
@@ -19,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In order to test the eventual impact of uncanny feeling, as theorized by the Mori’s concept of uncanny valley, on learning, we proposed to a class of 26 pupils of mean age 8 years 5 months to visualize The Polar Express and Dark Crystal movies and to test three months after their ability to remember movie’s hero, story and end. The high degree of uncanny feeling initially produced by The Polar Express was verified by means of a questionnaire and discussion in the class performed just after the first scene of the movie was stopped. When some weeks after the entire movies was shown to the pupils, this uncanny feeling appears to be weaker and when finally pupils were tested on their memories concerning both movies, answers got in The Polar Express case did not appear to be less relevant than those got for Dark Crystal. The reported experiment suggests that highly human-like faces do not prevent to transmit information to be learned by pupils, which tends to indicate that faces of future teaching robots could take human form.
+abstract: In child-robot interactions focused on language learning, tablets are often used to structure the interaction between the robot and the child. However, it is not clear how tablets affect children’s learning gains. Real-life objects are thought to benefit children’s word learning, but it is not clear whether virtual objects provide the same learning experiences. The present study aims to find out whether there is a difference in L2 vocabulary learning gains between children who manipulate physical objects and children who manipulate pictures of the same objects on a tablet screen during a word-learning task. Preliminary data from an ongoing experiment is presented, indicating no clear benefit of real-life objects over virtual objects.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -27,7 +30,7 @@ tags:
 - HRI2017
 featured: false
 
-url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_1/R4L_HRI_2017_paper_1.pdf' 
+url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_7/R4L_HRI_2017_paper_7.pdf' 
 
 
 # Featured image

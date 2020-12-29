@@ -1,7 +1,11 @@
 ---
-title: "Has Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School"
+title: "ProCRob Architecture for Personalized Social Robotics"
 authors:
-- Bertrand Tondu
+- Pouyan	Ziafati	
+- Francisco J	Rodríguez Lera	
+- Andreia	Pinto Costa	
+- Aida	Nazarikhorram			
+- Leon	Van Der Torre	
 
 date: "2017-03-07T00:00:00Z"
 doi: ""
@@ -19,7 +23,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In order to test the eventual impact of uncanny feeling, as theorized by the Mori’s concept of uncanny valley, on learning, we proposed to a class of 26 pupils of mean age 8 years 5 months to visualize The Polar Express and Dark Crystal movies and to test three months after their ability to remember movie’s hero, story and end. The high degree of uncanny feeling initially produced by The Polar Express was verified by means of a questionnaire and discussion in the class performed just after the first scene of the movie was stopped. When some weeks after the entire movies was shown to the pupils, this uncanny feeling appears to be weaker and when finally pupils were tested on their memories concerning both movies, answers got in The Polar Express case did not appear to be less relevant than those got for Dark Crystal. The reported experiment suggests that highly human-like faces do not prevent to transmit information to be learned by pupils, which tends to indicate that faces of future teaching robots could take human form.
+abstract: For robot tutors, autonomy and personalizations are important factors in order to engage users as well as to personalize the content and interaction according to the needs of individuals. This paper presents the Programming Cognitive Robot (ProCRob) software architecture to target personalized social robotics in two complementary ways. ProCRob supports the development and personalization of social robot applications by teachers and therapists without computer programming background. It also supports the development of autonomous robots which can adapt according to the human-robot interaction context. ProCRob is based on our previous research on autonomous robotics and has been developed since 2015 by a multi-disciplinary team of researchers from the fields of AI, Robotics and Psychology as well as artists and designers at the University of Luxembourg. ProCRob is currently being used and further developed for therapy of children with autism, and for encouraging rehabilitation activities in patients with post-stroke. This paper presents a summary of ProCRob and its application in autism.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

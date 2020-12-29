@@ -1,7 +1,14 @@
 ---
-title: "Has Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School"
+title: "Exploring the Effect of Gestures and Adaptive Tutoring on Children’s Comprehension of L2 Vocabularies"
 authors:
-- Bertrand Tondu
+- Jan	de Wit	
+- Thorsten	Schodde	
+- Bram	Willemsen	
+- Kirsten	Bergmann		
+- Mirjam	de Haas	
+- Stefan	Kopp		
+- Emiel	Krahmer
+- Paul	Vogt	
 
 date: "2017-03-07T00:00:00Z"
 doi: ""
@@ -19,7 +26,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In order to test the eventual impact of uncanny feeling, as theorized by the Mori’s concept of uncanny valley, on learning, we proposed to a class of 26 pupils of mean age 8 years 5 months to visualize The Polar Express and Dark Crystal movies and to test three months after their ability to remember movie’s hero, story and end. The high degree of uncanny feeling initially produced by The Polar Express was verified by means of a questionnaire and discussion in the class performed just after the first scene of the movie was stopped. When some weeks after the entire movies was shown to the pupils, this uncanny feeling appears to be weaker and when finally pupils were tested on their memories concerning both movies, answers got in The Polar Express case did not appear to be less relevant than those got for Dark Crystal. The reported experiment suggests that highly human-like faces do not prevent to transmit information to be learned by pupils, which tends to indicate that faces of future teaching robots could take human form.
+abstract: The L2TOR project explores the use of social robots for second language tutoring. This paper presents an experiment in preparation to investigate the effects of two educational scaffolding features (adaptation/personalization and iconic gestures), when used by a robot tutor, on children’s comprehension of animal names in a foreign language. Participants will be children between the ages of four and five. The study is scheduled to take place in March 2017.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -27,7 +34,7 @@ tags:
 - HRI2017
 featured: false
 
-url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_1/R4L_HRI_2017_paper_1.pdf' 
+url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_8/R4L_HRI_2017_paper_8.pdf' 
 
 
 # Featured image
