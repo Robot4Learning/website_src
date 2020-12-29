@@ -31,7 +31,9 @@ tags:
 featured: false
 
 url_pdf: 'publication/RoMan2016/R4L_Ro-Man_2016_paper_3/R4L_Ro-Man_2016_paper_3.pdf' 
-
+links:
+- name: RoMan2016
+  url: https://robot4learning.github.io/event/roman2016/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

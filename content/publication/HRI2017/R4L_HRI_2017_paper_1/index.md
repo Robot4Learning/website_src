@@ -29,7 +29,10 @@ featured: false
 
 url_pdf: 'publication/HRI2017/R4L_HRI_2017_paper_1/R4L_HRI_2017_paper_1.pdf' 
 
-
+links:
+- name: HRI2017
+  url: https://robot4learning.github.io/event/hri2017/
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
