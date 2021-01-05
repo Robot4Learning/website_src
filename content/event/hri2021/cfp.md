@@ -1,5 +1,5 @@
 ---
-title: R4L @HRI 2021
+title: CfP R4L @HRI 2021
 summary: Learner-Centred Design
 
 tags:
@@ -79,6 +79,10 @@ We present below the schedule for the workshop. Depending on the registered part
 We invite participants to report previous or planned research, practice and interest in developing applications in social robots for learning. Researchers from HRI, robotics and educational backgrounds are invited to contribute.
 
 Authors will be invited to **submit a case study on which they will be working during the workshop**. To present their case study, we will ask them to answer several questions in line with the units of the workshop. During the workshop, they will present to their peers their answer/implementation of the concepts for each unit and receive feedback. Priority will be given to case studies which fit the theme of the call, which are complementary, and which offer a range of theoretical and cultural perspectives.
+
+# Submission Guidelines
+
+
 
 
 # List of topics
