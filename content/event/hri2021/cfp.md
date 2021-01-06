@@ -92,7 +92,7 @@ How do they firt the learning objectives?
 
 
 ## Submission format
-Please submit your answers to the above questions in a ... page document using the template available here: 
+Please submit your answers to the above questions in a 2-4 pages document using the template available here: https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc 
 The submissions are done via the online form: 
 https://forms.gle/XzSrdrrtzX19nisY6 
 
