@@ -57,43 +57,8 @@ The workshop will be online (e.g Zoom) and highly interactive. Participants will
 # Important Dates
 | | |
 |----|----:|
-|Call for interest:                         |8 Januray 2021|
+|[Call for interest](https://robot4learning.github.io/event/hri2021/cfp/):                         |8 January 2021|
 |Submission deadline:                       |10 February 2021|
 |Notifications:                             |17 February 2021|
 
 
-# Provisional schedule  
-We present below the schedule for the workshop. Depending on the registered participants, we will align the schedule to the adequate time zones. We also investigate the possibility of having the workshop in several instances to suit several time zones. The keynotes times will be fixed, but the rest is kept open depending on participants.
-
-|  |  |
-|-------------| -------------| 
-| 20min       | **Introduction** |
-| 30+15min    | **Keynote 1**: Cases of Social Robots in Education <br> Hae Won Park (MIT, USA) - confirmed |
-| 20min intro <br> 30min group work <br> 10min discussion |**Unit1 - Background** <br> What do we know so far from the state of the art? <br> Learning Theories and Technologies for Learning <br> Robots in Education|
-| 20min intro <br> 30min group work <br> 10min discussion| **Unit 2 - Design** <br> What? When? Who? Why? <br> Using backward design process  <br> Integrating the robot  <br> Adapting to students| 
-| 20min intro  <br> 30min group work <br> 10min discussion | **Unit 3 - Evaluation** <br> How can we do the assessment before, during and after the experiment? <br> Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.|
-| 30+15min | **Keynote 2**: Perspectives for social robots in learning <br> Tony Belpaeme (U. Ghent, Belgium) - confirmed |
-| 30min | **Conclusion**|
-    
-# Target Audience
-We invite participants to report previous or planned research, practice and interest in developing applications in social robots for learning. Researchers from HRI, robotics and educational backgrounds are invited to contribute.
-
-Authors will be invited to **submit a case study on which they will be working during the workshop**. To present their case study, we will ask them to answer several questions in line with the units of the workshop. During the workshop, they will present to their peers their answer/implementation of the concepts for each unit and receive feedback. Priority will be given to case studies which fit the theme of the call, which are complementary, and which offer a range of theoretical and cultural perspectives.
-
-
-# List of topics
-- Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions
-- Design of autonomous systems for tutoring interactions
-- Theories and methods for tutoring (pedagogical and  language acquisition)
-- Shared knowledge and knowledge modelling in HRI 
-- Human-robot collaborative learning
-- Attachment and learning with a social robot (social and cognitive development)
-- Engagement in educational human-robot interaction
-- Student-robot relationship assessment
-- Designing student models and assessing student’s learning    
-- Playful learning with a robot
-- Impact of embodiment on learning   
-- Technical innovation in learning or teaching robots
-- Long term learning interactions, design and methodologies for repeated human-robot encounters
-- Robots for learners with special needs and special abilities
-- Privacy and ethical issues in robot tutoring applications

@@ -48,7 +48,7 @@ links:
 # Important Dates
 | | |
 |----|----:|
-|Call for interest:                         |8 Januray 2021|
+|Call for interest:                         |8 January 2021|
 |Submission deadline:                       |10 February 2021|
 |Notifications:                             |17 February 2021|
 
