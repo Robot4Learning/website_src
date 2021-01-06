@@ -65,13 +65,36 @@ We present below the schedule for the workshop. Depending on the registered part
 | 20min intro  <br> 30min group work <br> 10min discussion | **Unit 3 - Evaluation** <br> How can we do the assessment before, during and after the experiment? <br> Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.|
 | 30+15min | **Keynote 2**: Perspectives for social robots in learning <br> Tony Belpaeme (U. Ghent, Belgium) - confirmed |
 | 30min | **Conclusion**|
-    
-# Target Audience
-We invite participants to report previous or planned research, practice and interest in developing applications in social robots for learning. Researchers from HRI, robotics and educational backgrounds are invited to contribute.
 
-Authors will be invited to **submit a case study on which they will be working during the workshop**. To present their case study, we will ask them to answer several questions in line with the units of the workshop. During the workshop, they will present to their peers their answer/implementation of the concepts for each unit and receive feedback. Priority will be given to case studies which fit the theme of the call, which are complementary, and which offer a range of theoretical and cultural perspectives.
+
 
 # Submission Guidelines
+We invite participants to report previous or planned research, practice and interest in developing applications in social robots for learning. Researchers from HRI, robotics and educational backgrounds are invited to contribute.
+
+Authors are invited to **submit a case study on which they will be working during the workshop**. To present their case study, we ask them to answer a few questions in line with the units of the workshop. During the workshop, they will present to their peers their answer/implementation of the concepts for each unit and receive feedback. Priority will be given to case studies which are complementary, and which offer a range of theoretical and cultural perspectives.
+
+
+## Questions
+
+### 1. Background and Research questions
+What research question are you trying to address?
+
+What learning theory or theortical background do you plan to use?
+### 2. Design
+What is the context to your research?
+- Who are your learners?
+- What are the learning objectives?
+- Where is the learning occuring? (home, school, elderly facility ...)
+- What robot do you use and why?
+### 3. Assessment
+What methods do you plan to use for the assessment?
+How do they firt the learning objectives?
+
+
+## Submission format
+Please submit your answers to the above questions in a ... page document using the template available here: 
+The submissions are done via the online form: 
+https://forms.gle/XzSrdrrtzX19nisY6 
 
 
 
