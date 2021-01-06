@@ -88,7 +88,7 @@ What is the context to your research?
 - What robot do you use and why?
 ### 3. Assessment
 What methods do you plan to use for the assessment?
-How do they firt the learning objectives?
+How do they map with the learning objectives?
 
 
 ## Submission format
