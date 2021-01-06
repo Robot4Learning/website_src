@@ -58,7 +58,7 @@ The workshop will be online (e.g Zoom) and highly interactive. Participants will
 | | |
 |----|----:|
 |[Call for interest](https://robot4learning.github.io/event/hri2021/cfp/):                         |8 January 2021|
-|Submission deadline:                       |10 February 2021|
-|Notifications:                             |17 February 2021|
+|Submission deadline:                       |25 January 2021|
+|Notifications:                             |30 January 2021|
 
 

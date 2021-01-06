@@ -68,7 +68,3 @@ How can we do the assessment before, during and after the experiment? <br> Learn
 
 # Pre-Workshop Quiz
 Quiz for participants
-
-# EoI Questions
-In order to register your participation to the event answer the following questions:
-1- 
