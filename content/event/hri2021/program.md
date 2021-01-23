@@ -15,33 +15,32 @@ links:
 - icon: user
   icon_pack: fas
   name: Wafa Johal
-  url:
+  url: '/author/anara-sandygulova/'
 
 - icon: user
   icon_pack: fas
   name: Barbara Bruno
-  url:
+  url: '/author/barbara-bruno/'
 
 - icon: user
   icon_pack: fas
   name: Jennifer K. Olsen
-  url: 
+  url: 'https://jenniferkolsen.com/'
 
 - icon: user
   icon_pack: fas
   name: Mohamed Chetouani
-  url: 
+  url: '/author/mohamed-chetouani/'
 
 - icon: user
   icon_pack: fas
   name: Séverin Lemaignan
-  url: 
+  url: '/author/severin-lemaignan/'
 
 - icon: user
   icon_pack: fas
   name: Anara Sandygulova
-  url: 
-
+  url: '/author/anara-sandygulova/'
 
 ---
 

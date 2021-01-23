@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Séverin Lemaignan
+title: Severin Lemaignan
 
 # Username (this should match the folder name)
 authors:
@@ -69,7 +69,7 @@ user_groups:
 - Organisers
 ---
 
-Séverin is Associate Professor in Social Robotics and AI at the Bristol Robotics Lab. His research interest primarily concerns the socio-cognitive aspects of human-robot interaction, both from the perspective of the human cognition and the design of cognitive architectures for the robots.  He has been focusing his recent experimental work on human-in-the-loop machine learning for social robots, with applications in child-robot interactions and assistive robotics, with the goal to develop effective and engaging novel interaction paradigms, in particular in education. 
+Severin is Associate Professor in Social Robotics and AI at the Bristol Robotics Lab. His research interest primarily concerns the socio-cognitive aspects of human-robot interaction, both from the perspective of the human cognition and the design of cognitive architectures for the robots.  He has been focusing his recent experimental work on human-in-the-loop machine learning for social robots, with applications in child-robot interactions and assistive robotics, with the goal to develop effective and engaging novel interaction paradigms, in particular in education. 
 
  
 
