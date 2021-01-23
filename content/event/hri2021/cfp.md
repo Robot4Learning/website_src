@@ -48,7 +48,7 @@ links:
 # Important Dates
 | | |
 |--------|----------|
-|**Early Bird Submission Deadline** | **January 25, 2021** * :sparkles:|
+|**Early Bird Submission Deadline** | **January 25, 2021** AoE :sparkles:|
 |**Early Bird Acceptance notification** |  **January 30, 2021** |
 |General Submission Deadline|February 17, 2021|
 |General Acceptance notification| February 23, 2021
@@ -92,7 +92,7 @@ How do they map with the learning objectives?
 
 
 ## Submission format
-Please submit your answers to the above questions in a 2-4 pages document using the template available here: https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc 
+Please submit your answers to the above questions in a 2-4 pages (excluding references) document using the template available here: https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc 
 The submissions are done via the online form: 
 https://forms.gle/XzSrdrrtzX19nisY6 
 
