@@ -55,11 +55,10 @@ The workshop will be online (e.g Zoom) and highly interactive. Participants will
 - Units: Each unit will aim to look at the participants' work with a certain angle, and will start with a short intro on the topic followed by a group work. Participants will be given tools to help them answer the questions relatively to their planned study/research. 
 
 # Important Dates
-# Important Dates
 | | |
 |--------|----------|
-|**Early Bird Submission Deadline** | **January 25, 2021** AoE :sparkles:|
-|**Early Bird Acceptance notification** |  **January 30, 2021** |
+|Early Bird Submission Deadline** | January 25, 2021 AoE :sparkles:|
+|Early Bird Acceptance notification |  January 30, 2021 |
 |General Submission Deadline|February 17, 2021|
 |General Acceptance notification| February 23, 2021
 |**Workshop event**| **March 12, 2021 PM** |

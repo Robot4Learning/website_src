@@ -34,7 +34,7 @@ links:
 
 - icon: user
   icon_pack: fas
-  name: Séverin Lemaignan
+  name: Severin Lemaignan
   url: https://robot4learning.github.io/author/severin-lemaignan/
 
 - icon: user
@@ -45,16 +45,24 @@ links:
 
 ---
 
+The Robots for Learning workshop series aims at advancing the research topics related to the use of social robots in educational contexts. This year's half-day workshop follows on previous events in Human-Robot Interaction conferences focusing on efforts to discuss potential benchmarks in design, methodology and evaluation of new robotics systems that help learners. 
+
+In this 6th edition of the workshop, we will be investigating in particular methods from technologies for education and online learning. Since the past few months, online and remote learning has been put in place in several countries to cope with the health and safety measures due to the Covid-19 pandemic. In this workshop, we aim to discuss strategies to design robotics system able to provide embodied assistance to the remote learners and to demonstrate long-term learning effects.
+
+
 # Important Dates
 | | |
 |--------|----------|
-|**Early Bird Submission Deadline** | **January 25, 2021** AoE :sparkles:|
-|**Early Bird Acceptance notification** |  **January 30, 2021** |
+|Early Bird Submission Deadline | January 25, 2021 AoE :sparkles:|
+|Early Bird Acceptance notification |  January 30, 2021 |
 |General Submission Deadline|February 17, 2021|
 |General Acceptance notification| February 23, 2021
 |**Workshop event**| **March 12, 2021 PM** |
 
  :sparkles: *(to be able to register at low rate)*
+
+
+
 
 # Overview
 
