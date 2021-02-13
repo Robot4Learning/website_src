@@ -11,6 +11,8 @@ date: "2021-01-11T00:00:00Z"
 image:
   focal_point: Smart
 
+parent: "r4lhri2021"
+
 links:
 - icon: user
   icon_pack: fas
@@ -53,13 +55,12 @@ In this 6th edition of the workshop, we will be investigating in particular meth
 # Important Dates
 | | |
 |--------|----------|
-|Early Bird Submission Deadline | January 25, 2021 AoE :sparkles:|
+|Early Bird Submission Deadline** | January 25, 2021 AoE|
 |Early Bird Acceptance notification |  January 30, 2021 |
-|General Submission Deadline|February 17, 2021|
-|General Acceptance notification| February 23, 2021
+|**General Submission Deadline**|**February 17, 2021**|
+|General Acceptance notification| February 23, 2021|
+|Camera Ready| March 2, 2021|
 |**Workshop event**| **March 12, 2021 PM** |
-
- :sparkles: *(to be able to register at low rate)*
 
 
 

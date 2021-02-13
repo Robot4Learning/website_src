@@ -12,7 +12,28 @@
 [[main]]
   name = "R4L@HRI2021"  # A link title for your page.
   url = "event/hri2021/"  # The URL of your page.
+  identifier =  "r4lhri2021"
   weight = 15  # The position of your page in the menu.
+
+[[main]]
+  name = "Call for Participation"  # A link title for your page.
+  url = "event/hri2021/cfp"  # The URL of your page.
+  parent =  "r4lhri2021"
+  weight = 10  # The position of your page in the menu.
+
+[[main]]
+  name = "Program"  # A link title for your page.
+  url = "event/hri2021/program"  # The URL of your page.
+  parent =  "r4lhri2021"
+  weight = 15  # The position of your page in the menu.
+
+[[main]]
+  name = "Material"  # A link title for your page.
+  url = "event/hri2021/material"  # The URL of your page.
+  parent =  "r4lhri2021"
+  weight = 125  # The position of your page in the menu.
+  hidden = true
+
 
 [[main]]
   name = " Past Events"

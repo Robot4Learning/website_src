@@ -6,7 +6,9 @@ tags:
 - r4l
 - hri2021
 - hri
-date: "2020-12-11T00:00:00Z"
+date: "2021-02-13T00:00:00Z"
+
+identifier : "r4lhri2021"
 
 image:
   focal_point: Smart
@@ -42,6 +44,11 @@ links:
   name: Anara Sandygulova
   url: '/author/anara-sandygulova/'
 
+- icon: home
+  icon_pack: fas
+  name: Conference Website - HRI2021
+  url: 'https://humanrobotinteraction.org/2021/workshops-and-tutorials/'
+
 
 ---
 Imagine a person engaged in a learning activity, be it solving math exercises with pen and paper or practicing a second language by playing a memory game with a social robot. In both cases, the activity has superficial, visible goals (to find the solution of the equation, to score more points than the other player) covering the deeper, more elusive goal of helping the person learn. In the specific case of learning activities involving social robot, this double-layered structure makes the design of the robot’s behaviour a fascinating challenge: while it is relatively straightforward to design a robot that’s a fierce competitor at a memory game, it is much less clear to envision how it should behave to support its human counterpart in learning. Similarly, the design of the experiment allowing for evaluating the robot’s behaviour, as well as the robot-enhanced learning activity as a whole, becomes at once crucial and non trivial.
@@ -57,10 +64,11 @@ The workshop will be online (e.g Zoom) and highly interactive. Participants will
 # Important Dates
 | | |
 |--------|----------|
-|Early Bird Submission Deadline** | January 25, 2021 AoE :sparkles:|
+|Early Bird Submission Deadline** | January 25, 2021 AoE|
 |Early Bird Acceptance notification |  January 30, 2021 |
-|General Submission Deadline|February 17, 2021|
-|General Acceptance notification| February 23, 2021
+|**General Submission Deadline**|**February 17, 2021**|
+|General Acceptance notification| February 23, 2021|
+|Camera Ready| March 2, 2021|
 |**Workshop event**| **March 12, 2021 PM** |
 
- :sparkles: *(to be able to register at low rate)*
+
