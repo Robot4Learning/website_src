@@ -47,7 +47,7 @@ links:
 
 ---
 ## Venue
-March 12th 2021 PM, on Hopin
+March 12th 2021 PM, on Hopin / Zoom
 
 
 ## Provisional schedule  
@@ -67,14 +67,25 @@ We present below the schedule for the workshop.
 
 ## Accepted Papers
 
-- *Robot Teaching for Human Inverse Reinforcement Learning*	Michael S. Lee, Henny Admoni, Reid Simmons
-- *A Social Robot that looks for Productive Engagement*	Jauwairia Nasir, Barbara Bruno, Pierre Dillenbourg 
-- *STEMMates: Exploring the use of companion robots with socially situated interest supports for in-home science reading*	Joseph E Michaelis
-- *THE IRECHECK PROJECT- A SOCIAL ROBOT HELPING CHILDREN WITH DYSGRAPHIA IN A LEARNING-BY-TEACHING SCENARIO*	Jianling ZOU, Soizic GAUTHIER, Dominique ARCHAMBAULT, Salvatore M. ANZALONE, David COHEN
-- *Mutual Modelling Ability for a Humanoid Robot: How can it improve my learning as we solve a problem together?*	Utku Norman, Barbara Bruno, Pierre Dillenbourg
-- *Telerobots for Informal Learning in Schools*	Veronica Ahumada-Newhart, Laurel Riek
-- *Teaching grounded reading skills via an interactive robot tutor*	Kayleigh Bishop, Bradley Hayes, Alessandro Roncone
-- *CoWriting Kazakh: Efficacy of a Long-term Robotic Agent in a Physical vs Virtual Embodiment*	Aida Amirova and Anara Sandygulova
-- *Reducing communication failures in robot education*	Ronald Cumbal, Olov Engwall, José Lopes
-- *Virtual Characters versus Social Robots: Towards a comparative study of Social Agents for Teaching English.*	Eduardo B. Sandoval; Diego Vazquez Rojas; Clarissa Parada; Alvaro Anzueto Rios
-- *CozmoNAOts: A Computational Thinking Learning Task*	Rebecca Stower
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Lee.pdf" "newtab" %}} *Robot Teaching for Human Inverse Reinforcement Learning* {{% /staticref %}}, 
+<br> Michael S. Lee, Henny Admoni, Reid Simmons
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Nasir.pdf" "newtab" %}}*A Social Robot that looks for Productive Engagement*{{% /staticref %}}, 
+<br>  Jauwairia Nasir, Barbara Bruno, Pierre Dillenbourg 
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Michaelis.pdf" "newtab" %}}*STEMMates: Exploring the use of companion robots with socially situated interest supports for in-home science reading*{{% /staticref %}}, 
+<br> 	Joseph E Michaelis
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Zou.pdf" "newtab" %}}*THE IRECHECK PROJECT- A SOCIAL ROBOT HELPING CHILDREN WITH DYSGRAPHIA IN A LEARNING-BY-TEACHING SCENARIO*{{% /staticref %}}, 
+<br> 	Jianling ZOU, Soizic GAUTHIER, Dominique ARCHAMBAULT, Salvatore M. ANZALONE, David COHEN
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Norman.pdf" "newtab" %}}*Mutual Modelling Ability for a Humanoid Robot: How can it improve my learning as we solve a problem together?*{{% /staticref %}}, 
+<br> 	Utku Norman, Barbara Bruno, Pierre Dillenbourg
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Newhart.pdf" "newtab" %}}*Telerobots for Informal Learning in Schools*{{% /staticref %}}, 
+<br> 	Veronica Ahumada-Newhart, Laurel Riek
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Bishop.pdf" "newtab" %}}*Teaching grounded reading skills via an interactive robot tutor*{{% /staticref %}}, 
+<br>	Kayleigh Bishop, Bradley Hayes, Alessandro Roncone
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Sandygulova.pdf" "newtab" %}}*CoWriting Kazakh: Efficacy of a Long-term Robotic Agent in a Physical vs Virtual Embodiment*{{% /staticref %}}, 
+<br> 	Aida Amirova and Anara Sandygulova
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Cumbal.pdf" "newtab" %}}*Reducing communication failures in robot education*{{% /staticref %}}, 
+<br> 	Ronald Cumbal, Olov Engwall, José Lopes
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Sandoval.pdf" "newtab" %}}*Virtual Characters versus Social Robots: Towards a comparative study of Social Agents for Teaching English.*{{% /staticref %}}, 
+<br> 	Eduardo B. Sandoval; Diego Vazquez Rojas; Clarissa Parada; Alvaro Anzueto Rios
+- {{% staticref "publication/HRI2021/R4L-HRI2021_Stower.pdf" "newtab" %}}*CozmoNAOts: A Computational Thinking Learning Task*{{% /staticref %}}, 
+<br> 	Rebecca Stower, Arvid Kappas
