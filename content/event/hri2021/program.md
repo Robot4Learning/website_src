@@ -47,7 +47,21 @@ links:
 
 ---
 ## Venue
-March 12th 2021 PM, on Hopin / Zoom
+on Hopin / Zoom
+
+March 12th 2021  starting at:
+  |  |  |
+  |-------------| -------------| 
+  | **Boulder, USA**           |  **Fri, 12 Mar 2021 at 12:00 noon MST**   | 
+  | Sydney, Australia        |  Sat, 13 Mar 2021 at 6:00 am AEDT  | 
+  | Nursultan, Kazakhstan    |  Sat, 13 Mar 2021 at 1:00 am ALMT      | 
+  | Paris, France            |  Fri, 12 Mar 2021 at 8:00 pm CET       | 
+  | London, United Kingdom   |  Fri, 12 Mar 2021 at 7:00 pm GMT    |    
+  | New York, USA            |  Fri, 12 Mar 2021 at 2:00 pm EST    |    
+  | San Diego, USA           |  Fri, 12 Mar 2021 at 11:00 am PST   |    
+
+  
+
 
 
 ## Provisional schedule  
